@@ -6,6 +6,7 @@
 💻After **+6 years** of international research experience working in the lab, I’m now embarking on an exciting new journey to expand my expertise into **cheminformatics**, **big data and data analysis**, **programming**, **molecular docking**, **computational chemistry**, and **artificial intelligence** — all applied to the chemical, biotech, and pharmaceutical sectors. 
 
 🧠Currently self-learning:
+
   -Python for scientific computing
   
   -RDKit and molecular descriptors
